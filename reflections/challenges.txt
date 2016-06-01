@@ -1,0 +1,4 @@
+I am open to learning more about how Ruby works in the real world.
+
+I think that I bring some practical experience to the ruby developer courses
+that will help me in the long run. 

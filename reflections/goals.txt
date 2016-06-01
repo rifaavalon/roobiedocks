@@ -1,0 +1,2 @@
+my goal is to learn more about Ruby programming in general. I'd like to
+open my own business developing a ruby application. 
